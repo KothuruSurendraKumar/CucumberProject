@@ -1,0 +1,8 @@
+CucumberE2EProject/CucumberProject/pages/HomePage.class
+CucumberE2EProject/CucumberProject/utils/CommonUtils.class
+CucumberE2EProject/CucumberProject/App.class
+CucumberE2EProject/CucumberProject/pages/RegisterPage.class
+CucumberE2EProject/CucumberProject/utils/ElementUtils.class
+CucumberE2EProject/CucumberProject/pages/LoginPage.class
+CucumberE2EProject/CucumberProject/utils/ConfigReader.class
+CucumberE2EProject/CucumberProject/pages/AccountPage.class
