@@ -3,3 +3,5 @@
 /Users/surendra.k/Documents/workspace/CucumberProject/src/test/java/CucumberE2EProject/CucumberProject/hooks/MyHooks.java
 /Users/surendra.k/Documents/workspace/CucumberProject/src/test/java/CucumberE2EProject/CucumberProject/runner/TestRunner.java
 /Users/surendra.k/Documents/workspace/CucumberProject/src/test/java/CucumberE2EProject/CucumberProject/stepImpl/Login.java
+/Users/surendra.k/Documents/workspace/CucumberProject/src/test/java/CucumberE2EProject/CucumberProject/stepImpl/Register.java
+/Users/surendra.k/Documents/workspace/CucumberProject/src/test/java/CucumberE2EProject/CucumberProject/stepImpl/Search.java
