@@ -108,7 +108,7 @@ public class Register {
 		Assert.assertTrue(
 				registerPage.getWarningMessageText().contains("Warning: You must agree to the Privacy Policy!"));
 		Assert.assertEquals("First Name must be between 1 and 32 characters!", registerPage.getFirstNameWarning());
-		Assert.assertEquals("Last Name must be between 1 and 32 characters!", registerPage.getLastNameWarning());
+		Assert.assertEquals("Last Name must be between 1 and 32 character", registerPage.getLastNameWarning());
 		Assert.assertEquals("E-Mail Address does not appear to be valid!", registerPage.getEmailWarning());
 		Assert.assertEquals("Telephone must be between 3 and 32 characters!", registerPage.getTelephoneWarning());
 		Assert.assertEquals("Password must be between 4 and 20 characters!", registerPage.getPasswordWarning());
